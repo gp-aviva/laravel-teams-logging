@@ -22,7 +22,7 @@
 	},
 	"extra": {
 		"laravel": {
-			"providers": [ "gpaviva\\LaravelTeamsLogging\\LoggerServiceProvider" ]
+			"providers": [ "gpaviva\\LaravelTeamsLogging\\src\\LoggerServiceProvider" ]
 		}
 	}
 }
