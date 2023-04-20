@@ -1,5 +1,5 @@
 {
-	"name": "margatampu/laravel-teams-logging",
+	"name": "gp-aviva/laravel-teams-logging",
 	"description": "Laravel handler to sending messages to Microsoft Teams using the Incoming Webhook connector",
 	"license": "MIT",
 	"authors": [
