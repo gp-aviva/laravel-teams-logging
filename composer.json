@@ -17,12 +17,12 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"MargaTampu\\LaravelTeamsLogging\\": "src/"
+			"gpaviva\\LaravelTeamsLogging\\": "src/"
 		}
 	},
 	"extra": {
 		"laravel": {
-			"providers": [ "MargaTampu\\LaravelTeamsLogging\\LoggerServiceProvider" ]
+			"providers": [ "gpaviva\\LaravelTeamsLogging\\LoggerServiceProvider" ]
 		}
 	}
 }
